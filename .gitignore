@@ -1,0 +1,34 @@
+# KiCad local settings
+*.kicad_prl
+
+# Backups
+*.bak
+*-bak
+*.kicad_pcb-bak
+*.kicad_sch-bak
+
+# Autosave / lock files
+*.autosave
+*.lck
+
+# Manufacturing outputs
+*.gbr
+*.gbrjob
+*.drl
+*.csv
+fab/
+
+# Other
+.history
+
+# OS files
+.DS_Store
+Thumbs.db
+
+### Krita ###
+*.kra
+*.kra~
+
+### Images ###
+*.png
+*.jpg

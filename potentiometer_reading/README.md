@@ -1,7 +1,7 @@
 # Analog reading of the potentiometer
 ## Components
 - Arduino UNO
-- Potentiometer 100 Omh
+- Potentiometer 100 Ohms
 - Resistor
 - Red LED
 - Wire 5x

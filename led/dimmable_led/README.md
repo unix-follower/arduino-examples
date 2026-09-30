@@ -1,7 +1,7 @@
 # Dimmable LED
 ## Components
 - Arduino UNO
-- Potentiometer 100 Omh
+- Potentiometer 100 Ohms
 - Resistor
 - Green LED
 - Wire 5x

@@ -1,7 +1,7 @@
 # Passive buzzer
 ## Components
 - Arduino UNO
-- Passive buzzer KY-006
+- KY-006 Passive buzzer
 - Potentiometer 100 Ohms
 - Wire 5x
 

@@ -1,4 +1,4 @@
-# Photoresistor
+# Photoresistor with LEDs
 ## Components
 - Arduino UNO
 - KY-018 Photoresistor

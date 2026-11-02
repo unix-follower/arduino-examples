@@ -1,4 +1,4 @@
-# Pushbutton with LED
+# Push button with LED
 ## Components
 - Arduino UNO
 - Resistor 100K Ohms 2x
